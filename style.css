@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+input, select, button {
+    margin: 10px;
+    padding: 8px;
+}
+
+#expensesList, #summary {
+    margin-top: 20px;
+}
